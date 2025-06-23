@@ -242,7 +242,6 @@ Browse a wide range of remote Systems Administrator positions available globally
 * **[Integration Specialist](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Integration-Specialist_R4962)** — _n/a_ _(posted 2025-06-04)_
 * **[Technical Control Engineer (Site Startup)](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Technical-Control-Engineer--Site-Startup-_R4781)** — _n/a_ _(posted 2025-06-03)_
 * **[Technical Support Project Manager, Site Startup](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Technical-Support-Project-Manager--Site-Startup_R4948)** — _n/a_ _(posted 2025-06-03)_
-* **[Automation Video Analyst](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Automation-Video-Analyst_R4938)** — _n/a_ _(posted 2025-06-02)_
 * **[Field Service Maintenance Technician](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Field-Service-Maintenance-Technician_R4931)** — _n/a_ _(posted 2025-05-30)_
 * **[Site Installation Manager](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Site-Installation-Manager_R4882)** — ¤60,000 – ¤90,000 USD _(posted 2025-05-15)_
 * **[Technical Control Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Technical-Control-Engineer_R4776-1)** — _n/a_ _(posted 2025-04-16)_
@@ -255,6 +254,7 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fgwkzmyi2yqa4207echj.webp" width="24" height="24" alt="Thermo Fisher Scientific logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Thermo Fisher Scientific](https://jobo.world/company/Thermo-Fisher-Scientific)
 
+* **[Sr Staff IT Architect, Endpoint Services](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Colorado-USA/Sr-Staff-IT-Architect--Endpoint-Services_R-01321243-1)** — _n/a_ _(posted 2025-06-20)_
 * **[Helpdesk Logistics Specialist](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Oregon-USA/Helpdesk-Logistics-Specialist_R-01320115)** — _n/a_ _(posted 2025-06-19)_
 * **[Systems Analyst III](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Massachusetts-USA/Systems-Analyst-III_R-01319876)** — _n/a_ _(posted 2025-06-04)_
 
@@ -296,4 +296,4 @@ Browse a wide range of remote Systems Administrator positions available globally
 * **[Staff Network Engineer-Federal](https://job-boards.greenhouse.io/zscaler/jobs/4710728007)** — _n/a_ _(posted 2025-05-31)_
 
 ---
-_Updated automatically — 2025-06-22_
+_Updated automatically — 2025-06-23_
