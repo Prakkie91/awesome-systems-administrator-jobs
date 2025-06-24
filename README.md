@@ -142,6 +142,10 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 * **[Enterprise IT Administrator](https://jobs.ashbyhq.com/imprint/0a37ba33-6003-4cc5-84fe-4bf6cdd28fb0)** — ¤0 – ¤90,000 USD _(posted 2025-04-25)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sxgbfxu6zzwvq8obqunk.webp" width="24" height="24" alt="Kalshi logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kalshi](https://jobo.world/company/Kalshi)
+
+* **[IT Administrator](https://job-boards.greenhouse.io/kalshi/jobs/6617464003)** — _n/a_ _(posted 2025-06-23)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lvwq9crawrrfibndxzho.webp" width="24" height="24" alt="Keeper Security logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Keeper Security](https://jobo.world/company/Keeper-Security)
 
 * **[Senior Desktop Software Engineer (C# / .NET)](https://apply.workable.com/keepersecurity/j/CA871D73FD/)** — _n/a_ _(posted 2025-06-11)_
@@ -254,7 +258,6 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fgwkzmyi2yqa4207echj.webp" width="24" height="24" alt="Thermo Fisher Scientific logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Thermo Fisher Scientific](https://jobo.world/company/Thermo-Fisher-Scientific)
 
-* **[Sr Staff IT Architect, Endpoint Services](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Colorado-USA/Sr-Staff-IT-Architect--Endpoint-Services_R-01321243-1)** — _n/a_ _(posted 2025-06-20)_
 * **[Helpdesk Logistics Specialist](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Oregon-USA/Helpdesk-Logistics-Specialist_R-01320115)** — _n/a_ _(posted 2025-06-19)_
 * **[Systems Analyst III](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Massachusetts-USA/Systems-Analyst-III_R-01319876)** — _n/a_ _(posted 2025-06-04)_
 
@@ -296,4 +299,4 @@ Browse a wide range of remote Systems Administrator positions available globally
 * **[Staff Network Engineer-Federal](https://job-boards.greenhouse.io/zscaler/jobs/4710728007)** — _n/a_ _(posted 2025-05-31)_
 
 ---
-_Updated automatically — 2025-06-23_
+_Updated automatically — 2025-06-24_
