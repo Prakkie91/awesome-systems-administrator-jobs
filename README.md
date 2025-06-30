@@ -10,6 +10,10 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 * **[Workday Systems Administrator](https://jobs.lever.co/accurate/79ed65b5-3679-43e3-95f5-75ffad2e6b0c)** — ¤60,000 – ¤90,000 USD _(posted 2025-05-15)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/eqtxryrzzr3osa9lrxfb.webp" width="24" height="24" alt="Acronis logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Acronis](https://jobo.world/company/Acronis)
+
+* **[Senior Systems Engineer – Cloud Platform](https://acronis.wd3.myworkdayjobs.com/acronis_careers/job/USA---Remote/Senior-Systems-Engineer---Cloud-Platform_R-100335)** — _n/a_ _(posted 2025-06-27)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sp7qimtghkvk7bu8xh8a.webp" width="24" height="24" alt="AeroVironment logo" style="vertical-align:middle"/>&nbsp;&nbsp;[AeroVironment](https://jobo.world/company/AeroVironment)
 
 * **[Sr Business Relationship Management (BRM) Analyst](https://avav.wd1.myworkdayjobs.com/avav/job/Remote---California-Southern/Sr-Business-Relationship-Management--BRM--Analyst_5360)** — _n/a_ _(posted 2025-03-03)_
@@ -129,10 +133,6 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 * **[Senior Infrastructure Engineer](https://job-boards.greenhouse.io/groq/jobs/6579073003)** — _n/a_ _(posted 2025-05-21)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uxzsxi5shmjsoxmamfjh.webp" width="24" height="24" alt="Human Interest logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Human Interest](https://jobo.world/company/Human-Interest)
-
-* **[Senior Security Engineer](https://job-boards.greenhouse.io/humaninterest/jobs/6822325)** — _n/a_ _(posted 2025-05-09)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tbsfjuwuyescyatdwvwq.webp" width="24" height="24" alt="Huntress logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Huntress](https://jobo.world/company/Huntress)
 
 * **[Security Operations Analyst- East or Central Time Zone](https://job-boards.greenhouse.io/huntress/jobs/6619736003)** — ¤100,000 – ¤120,000 USD _(posted 2025-06-27)_
@@ -168,10 +168,6 @@ Browse a wide range of remote Systems Administrator positions available globally
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/icyvoy1xdkv6ptazxcqz.webp" width="24" height="24" alt="Motley Fool logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motley Fool](https://jobo.world/company/Motley-Fool)
 
 * **[Systems Administrator](https://boards.greenhouse.io/themotleyfool/jobs/4515638007)** — _n/a_ _(posted 2025-04-10)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lhkqlmin9hu3z85qyabt.webp" width="24" height="24" alt="Mozilla logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mozilla](https://jobo.world/company/Mozilla)
-
-* **[Senior HRIS Application Engineer](https://job-boards.greenhouse.io/mozilla/jobs/6964576)** — _n/a_ _(posted 2025-06-10)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/txhnjc4c5hu3msapwpp7.webp" width="24" height="24" alt="NVIDIA logo" style="vertical-align:middle"/>&nbsp;&nbsp;[NVIDIA](https://jobo.world/company/NVIDIA)
 
@@ -254,6 +250,7 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ow6rhitoxq427irmxmdy.webp" width="24" height="24" alt="Symbotic logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Symbotic](https://jobo.world/company/symbotic)
 
+* **[Receiving Operations Manager](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Receiving-Operations-Manager_R5030)** — _n/a_ _(posted 2025-06-27)_
 * **[System Engineer – All Locations (Onsite)](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/System-Engineer---All-Locations--Onsite-_R4992)** — _n/a_ _(posted 2025-06-18)_
 * **[Advanced Industrial Controls Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Advanced-Industrial-Controls-Engineer_R4984)** — _n/a_ _(posted 2025-06-10)_
 * **[Integration Specialist](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Integration-Specialist_R4962)** — _n/a_ _(posted 2025-06-04)_
@@ -273,7 +270,6 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 * **[Senior System Analyst](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Massachusetts-USA/Senior-System-Analyst_R-01322098)** — _n/a_ _(posted 2025-06-25)_
 * **[Manager, IT/Senior Systems Analyst](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Massachusetts-USA/Manager--IT-Senior-Systems-Analyst_R-01322099)** — _n/a_ _(posted 2025-06-25)_
-* **[Helpdesk Logistics Specialist](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Oregon-USA/Helpdesk-Logistics-Specialist_R-01320115)** — _n/a_ _(posted 2025-06-19)_
 * **[Systems Analyst III](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Massachusetts-USA/Systems-Analyst-III_R-01319876)** — _n/a_ _(posted 2025-06-04)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sga8awyk2vu9tdgrwd55.webp" width="24" height="24" alt="Upgrade logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Upgrade](https://jobo.world/company/Upgrade)
@@ -302,10 +298,14 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 * **[Staff Software Engineer](https://wellsky.wd1.myworkdayjobs.com/wellskycareers/job/Remote---US/Staff-Software-Engineer_JR3140)** — _n/a_ _(posted 2025-05-28)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dkj6ipzrzwyjesvh2iqc.webp" width="24" height="24" alt="Zoom logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Zoom](https://jobo.world/company/Zoom)
+
+* **[Network Automation Engineer](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Network-Automation-Engineer_R16766-1)** — _n/a_ _(posted 2025-06-27)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ulk9wbhbqzmd0lzi4e5e.webp" width="24" height="24" alt="Zscaler logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Zscaler](https://jobo.world/company/Zscaler)
 
 * **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
 * **[Staff Network Engineer-Federal](https://job-boards.greenhouse.io/zscaler/jobs/4710728007)** — _n/a_ _(posted 2025-05-31)_
 
 ---
-_Updated automatically — 2025-06-29_
+_Updated automatically — 2025-06-30_
