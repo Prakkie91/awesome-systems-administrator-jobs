@@ -52,10 +52,6 @@ Browse a wide range of remote Systems Administrator positions available globally
 * **[Solution Architect](https://jobs.lever.co/bluecatnetworks/34f9ae99-d870-4d49-b82b-6ff9964ea2d8)** — _n/a_ _(posted 2025-06-16)_
 * **[Enterprise Support Engineer](https://jobs.lever.co/bluecatnetworks/29e13921-8373-439c-aa93-2683078c7c15)** — _n/a_ _(posted 2025-04-23)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/v4nmw4erngsn3upqrrer.webp" width="24" height="24" alt="Brightseed logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Brightseed](https://jobo.world/company/Brightseed)
-
-* **[Operations Service Manager ](https://jobs.smartrecruiters.com/Brightspeed/744000068633015-operations-service-manager-?oga=true)** — _n/a_ _(posted 2025-07-03)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gmn8bewvkfhrdl17hxdc.webp" width="24" height="24" alt="CDK Global logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CDK Global](https://jobo.world/company/CDK-Global)
 
 * **[Associate Technical Support Analyst](https://cdk.wd1.myworkdayjobs.com/cdk/job/Remote-USA/Associate-Technical-Support-Analyst_JR7914-1)** — _n/a_ _(posted 2025-06-11)_
@@ -74,6 +70,7 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yrhltbcatnpx6bjoymt2.webp" width="24" height="24" alt="Clairo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Clairo](https://jobo.world/company/Clairo)
 
+* **[Cybersecurity Incident Response Analyst](https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/United-States-Remote/Cybersecurity-Incident-Response-Analyst_R16236)** — _n/a_ _(posted 2025-07-07)_
 * **[Principal Software Engineer I](https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/North-Carolina-Remote/Principal-Software-Engineer-I_R16034)** — _n/a_ _(posted 2025-06-16)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qbfespi3tbwe37eihuwb.webp" width="24" height="24" alt="Close logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Close](https://jobo.world/company/Close)
@@ -97,7 +94,6 @@ Browse a wide range of remote Systems Administrator positions available globally
 * **[Sr. Software Engineer II - Linux Sensor, EPP Product (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Software-Engineer-II---Linux-Sensor--EPP-Product--Remote-_R23707)** — _n/a_ _(posted 2025-07-02)_
 * **[Engineering Manager, Data Services (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineering-Manager--Data-Services--Remote-_R23519)** — _n/a_ _(posted 2025-06-17)_
 * **[Principal Engineer - Sensor, Linux (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Principal-Engineer---Sensor--Linux--Remote-_R23054)** — ¤180,000 – ¤250,000 USD _(posted 2025-05-15)_
-* **[Sr. Network Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Network-Engineer--Remote-_R22558)** — _n/a_ _(posted 2025-04-03)_
 * **[Sr. SDET - Windows Sensor (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-SDET---Windows-Sensor--Remote-_R22691-1)** — _n/a_ _(posted 2025-03-28)_
 * **[Sr. Software Engineer - Windows Kernel, Core Platform (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Software-Engineer---Windows-Kernel--Core-Platform--Remote--CAN-_R19309)** — _n/a_ _(posted 2025-03-07)_
 
@@ -188,6 +184,10 @@ Browse a wide range of remote Systems Administrator positions available globally
 * **[Security Engineer, Data Center Security](https://jobs.ashbyhq.com/openai/4efa5099-9fc6-459b-8ace-c47fb8677f90)** — ¤346,500 – ¤465,000 USD _(posted 2025-03-12)_
 * **[Security Engineer, Cloud Security](https://jobs.ashbyhq.com/openai/1705c3b2-7f3a-42bf-99a9-c23ba161a90d)** — ¤279,000 – ¤385,000 USD _(posted 2025-03-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/company_logo.webp" width="24" height="24" alt="Owens & Minor logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Owens & Minor](https://jobo.world/company/Owens-Minor)
+
+* **[Desktop Support Analyst, End User Experience- MAC experience](https://owensminor.wd1.myworkdayjobs.com/omcareers/job/Remote---Virginia/Desktop-Support-Analyst--End-User-Experience--MAC-experience_REQ_25_25186)** — ¤70,000 – ¤80,000 USD _(posted 2025-07-07)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/d2yjlpuizwrhcwryx5uj.webp" width="24" height="24" alt="Panopto logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Panopto](https://jobo.world/company/Panopto)
 
 * **[Join Our Talent Community: Support Analyst I](https://jobs.lever.co/panopto/b3abde40-2909-41ce-ad34-e35c52baa238)** — ¤45,000 – ¤55,000 USD _(posted 2025-02-21)_
@@ -207,6 +207,10 @@ Browse a wide range of remote Systems Administrator positions available globally
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jqluxvjjehdk8lnz0lrg.webp" width="24" height="24" alt="Platform Science logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Platform Science](https://jobo.world/company/Platform-Science)
 
 * **[Sr. Infrastructure Engineer](https://job-boards.greenhouse.io/platformscience/jobs/6577992003)** — _n/a_ _(posted 2025-05-16)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ouaczxlwlkcqf2eimdw2.webp" width="24" height="24" alt="PointClickCare logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PointClickCare](https://jobo.world/company/PointClickCare)
+
+* **[Intermediate Automation and Security Engineer](https://jobs.lever.co/pointclickcare/dfb8f839-f76c-4632-b96c-b7e982ddf3f3)** — _n/a_ _(posted 2025-07-04)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/company_logo.webp" width="24" height="24" alt="Republic Services logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Republic Services](https://jobo.world/company/Republic-Services)
 
@@ -258,20 +262,23 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ow6rhitoxq427irmxmdy.webp" width="24" height="24" alt="Symbotic logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Symbotic](https://jobo.world/company/symbotic)
 
+* **[Robot Teleoperations Support Specialist](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Robot-Teleoperations-Support-Specialist_R5049)** — _n/a_ _(posted 2025-07-07)_
 * **[Automation Design Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Automation-Design-Engineer_R5043)** — _n/a_ _(posted 2025-07-02)_
 * **[Industrial Controls Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Industrial-Controls-Engineer_R5024-1)** — _n/a_ _(posted 2025-06-30)_
 * **[System Engineer – All Locations (Onsite)](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/System-Engineer---All-Locations--Onsite-_R4992)** — _n/a_ _(posted 2025-06-18)_
 * **[Integration Specialist](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Integration-Specialist_R4962)** — _n/a_ _(posted 2025-06-04)_
 * **[Technical Control Engineer (Site Startup)](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Technical-Control-Engineer--Site-Startup-_R4781)** — _n/a_ _(posted 2025-06-03)_
-* **[Technical Support Project Manager, Site Startup](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Technical-Support-Project-Manager--Site-Startup_R4948)** — _n/a_ _(posted 2025-06-03)_
 * **[Field Service Maintenance Technician](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Field-Service-Maintenance-Technician_R4931)** — _n/a_ _(posted 2025-05-30)_
-* **[Site Installation Manager](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Site-Installation-Manager_R4882)** — ¤60,000 – ¤90,000 USD _(posted 2025-05-15)_
 * **[Technical Control Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Technical-Control-Engineer_R4776-1)** — _n/a_ _(posted 2025-04-16)_
 * **[System Reliability Test Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/System-Reliability-Test-Engineer_R4714)** — _n/a_ _(posted 2025-04-01)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lxkde3a4zbr9f7cpq9cn.webp" width="24" height="24" alt="Tala logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tala](https://jobo.world/company/Tala)
 
 * **[Staff Cloud Infrastructure Engineer](https://jobs.lever.co/tala/8f5232fb-9d0c-4626-848d-f8dc91a82a66)** — _n/a_ _(posted 2025-06-12)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t7hnejks5zv8kbaydiad.webp" width="24" height="24" alt="Tebra logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tebra](https://jobo.world/company/Tebra)
+
+* **[DevOps Engineer](https://job-boards.greenhouse.io/tebra/jobs/4575246005)** — _n/a_ _(posted 2025-07-08)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fgwkzmyi2yqa4207echj.webp" width="24" height="24" alt="Thermo Fisher Scientific logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Thermo Fisher Scientific](https://jobo.world/company/Thermo-Fisher-Scientific)
 
@@ -308,7 +315,6 @@ Browse a wide range of remote Systems Administrator positions available globally
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ulk9wbhbqzmd0lzi4e5e.webp" width="24" height="24" alt="Zscaler logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Zscaler](https://jobo.world/company/Zscaler)
 
 * **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
-* **[Staff Network Engineer-Federal](https://job-boards.greenhouse.io/zscaler/jobs/4710728007)** — _n/a_ _(posted 2025-05-31)_
 
 ---
-_Updated automatically — 2025-07-08_
+_Updated automatically — 2025-07-09_
