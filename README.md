@@ -11,10 +11,6 @@ Browse a wide range of remote Systems Administrator positions available globally
 * **[System Engineer (Cloud Platform)](https://acronis.wd3.myworkdayjobs.com/acronis_careers/job/USA---Remote/System-Engineer--Cloud-Platform-_R-100369)** — _n/a_ _(posted 2025-07-08)_
 * **[Senior Systems Engineer – Cloud Platform](https://acronis.wd3.myworkdayjobs.com/acronis_careers/job/USA---Remote/Senior-Systems-Engineer---Cloud-Platform_R-100335)** — _n/a_ _(posted 2025-06-27)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sp7qimtghkvk7bu8xh8a.webp" width="24" height="24" alt="AeroVironment logo" style="vertical-align:middle"/>&nbsp;&nbsp;[AeroVironment](https://jobo.world/company/AeroVironment)
-
-* **[Sr Business Relationship Management (BRM) Analyst](https://avav.wd1.myworkdayjobs.com/avav/job/Remote---California-Southern/Sr-Business-Relationship-Management--BRM--Analyst_5360)** — _n/a_ _(posted 2025-03-03)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yusgdnhj6g7bbs7rxusf.webp" width="24" height="24" alt="Airspace logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Airspace](https://jobo.world/company/Airspace)
 
 * **[Production Support Analyst](https://job-boards.greenhouse.io/airspace/jobs/5568688004)** — _n/a_ _(posted 2025-06-19)_
@@ -73,15 +69,20 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 * **[Workday Manager, Global Application Managed Services (AMS)](https://collaborative.wd1.myworkdayjobs.com/collaborative_solutions/job/USA---United-States---Remote/Workday-Integrations-Manager--Global-Application-Managed-Services--AMS-_JR-14908-1)** — _n/a_ _(posted 2025-02-25)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ebxwexlgheqnbip7vzmv.webp" width="24" height="24" alt="ConnectWise logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ConnectWise](https://jobo.world/company/ConnectWise)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/p51wpz1xuhr53cmc6hnh.webp" width="24" height="24" alt="Confluent logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Confluent](https://jobo.world/company/Confluent)
 
-* **[Senior Software Consulting Specialist - BMS](https://job-boards.greenhouse.io/connectwise/jobs/4563696005)** — ¤60,000 – ¤90,000 USD _(posted 2025-05-15)_
+* **[Technical Support Engineer (Sunday - Thursday schedule)](https://jobs.ashbyhq.com/confluent/76a64c56-ba6d-4754-b0f2-15c64bb4e52a)** — ¤106,200 – ¤124,700 USD _(posted 2025-07-12)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hzuavimik16xkwurk8st.webp" width="24" height="24" alt="Cribl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cribl](https://jobo.world/company/Cribl)
+
+* **[Senior Technical Support Engineer](https://job-boards.greenhouse.io/cribl/jobs/5527341004)** — _n/a_ _(posted 2025-07-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
+* **[Sr. Software Engineer - Linux Sensor, EPP Product (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Software-Engineer---Linux-Sensor--EPP-Product--Remote-_R23841)** — _n/a_ _(posted 2025-07-11)_
+* **[SDET III, Windows Sensor (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/SDET-III--Windows-Sensor--Remote-_R23865)** — _n/a_ _(posted 2025-07-11)_
 * **[Sr. Software Engineer II - Linux Sensor, EPP Product (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Software-Engineer-II---Linux-Sensor--EPP-Product--Remote-_R23707)** — _n/a_ _(posted 2025-07-02)_
 * **[Engineering Manager, Data Services (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineering-Manager--Data-Services--Remote-_R23519)** — _n/a_ _(posted 2025-06-17)_
-* **[Sr. Network Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Network-Engineer--Remote-_R22558)** — _n/a_ _(posted 2025-04-03)_
 * **[Sr. SDET - Windows Sensor (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-SDET---Windows-Sensor--Remote-_R22691-1)** — _n/a_ _(posted 2025-03-28)_
 * **[Sr. Software Engineer - Windows Kernel, Core Platform (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Software-Engineer---Windows-Kernel--Core-Platform--Remote--CAN-_R19309)** — _n/a_ _(posted 2025-03-07)_
 
@@ -113,10 +114,9 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 * **[Senior Infrastructure Engineer](https://job-boards.greenhouse.io/groq/jobs/6579073003)** — _n/a_ _(posted 2025-05-21)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tbsfjuwuyescyatdwvwq.webp" width="24" height="24" alt="Huntress logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Huntress](https://jobo.world/company/Huntress)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcr2yjsivoviphozj9y6.webp" width="24" height="24" alt="Humana logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Humana](https://jobo.world/company/Humana)
 
-* **[Security Operations Analyst- East or Central Time Zone](https://job-boards.greenhouse.io/huntress/jobs/6619736003)** — ¤100,000 – ¤120,000 USD _(posted 2025-06-27)_
-* **[Security Operations Analyst- Pacific Time Zone](https://job-boards.greenhouse.io/huntress/jobs/6619742003)** — ¤100,000 – ¤120,000 USD _(posted 2025-06-27)_
+* **[Senior Problem, Incident and Event Management Engineer](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Senior-Problem--Incident-and-Event-Management-Engineer_R-381331)** — _n/a_ _(posted 2025-07-11)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ojqrzbjpfmbgsm9qtfzl.webp" width="24" height="24" alt="IDMWORKS logo" style="vertical-align:middle"/>&nbsp;&nbsp;[IDMWORKS](https://jobo.world/company/IDMWORKS)
 
@@ -311,13 +311,10 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 * **[IT Administrator](https://jobs.ashbyhq.com/virtahealth/ea152829-904f-4f01-acef-169a0cb9d981)** — ¤74,100 – ¤85,200 USD _(posted 2025-05-24)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mwkz4xk7tqyotgsepjfp.webp" width="24" height="24" alt="WellSky logo" style="vertical-align:middle"/>&nbsp;&nbsp;[WellSky](https://jobo.world/company/WellSky)
-
-* **[Staff Software Engineer](https://wellsky.wd1.myworkdayjobs.com/wellskycareers/job/Remote---US/Staff-Software-Engineer_JR3140)** — _n/a_ _(posted 2025-05-28)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ulk9wbhbqzmd0lzi4e5e.webp" width="24" height="24" alt="Zscaler logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Zscaler](https://jobo.world/company/Zscaler)
 
+* **[Staff Network Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4783977007)** — _n/a_ _(posted 2025-07-12)_
 * **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
 
 ---
-_Updated automatically — 2025-07-12_
+_Updated automatically — 2025-07-13_
