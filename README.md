@@ -40,6 +40,10 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 * **[System Engineer III](https://apply.workable.com/auria/j/1976DF0197/)** — ¤115,000 – ¤130,000 USD _(posted 2025-03-24)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pqfdfrjmqmxbudyqcngn.webp" width="24" height="24" alt="Baxter International logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Baxter International](https://jobo.world/company/Baxter-International)
+
+* **[Healthcare Interface Engineer](https://baxter.wd1.myworkdayjobs.com/baxter/job/Illinois-remote/Healthcare-Interface-Engineer_JR-177787-1)** — _n/a_ _(posted 2025-07-11)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/c5iub4tldandwckwufaw.webp" width="24" height="24" alt="BlueCat logo" style="vertical-align:middle"/>&nbsp;&nbsp;[BlueCat](https://jobo.world/company/BlueCat)
 
 * **[Solution Architect](https://jobs.lever.co/bluecatnetworks/34f9ae99-d870-4d49-b82b-6ff9964ea2d8)** — _n/a_ _(posted 2025-06-16)_
@@ -64,10 +68,6 @@ Browse a wide range of remote Systems Administrator positions available globally
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qbfespi3tbwe37eihuwb.webp" width="24" height="24" alt="Close logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Close](https://jobo.world/company/Close)
 
 * **[Site Reliability Engineer](https://jobs.ashbyhq.com/close/6610824b-2d94-4071-90e0-bafc3b078870)** — _n/a_ _(posted 2025-05-24)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ynjb3ziie3hbmr1c8ehv.webp" width="24" height="24" alt="Cognizant logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cognizant](https://jobo.world/company/Cognizant)
-
-* **[Workday Manager, Global Application Managed Services (AMS)](https://collaborative.wd1.myworkdayjobs.com/collaborative_solutions/job/USA---United-States---Remote/Workday-Integrations-Manager--Global-Application-Managed-Services--AMS-_JR-14908-1)** — _n/a_ _(posted 2025-02-25)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/p51wpz1xuhr53cmc6hnh.webp" width="24" height="24" alt="Confluent logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Confluent](https://jobo.world/company/Confluent)
 
@@ -176,10 +176,6 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 * **[Desktop Support Analyst, End User Experience- MAC experience](https://owensminor.wd1.myworkdayjobs.com/omcareers/job/Remote---Virginia/Desktop-Support-Analyst--End-User-Experience--MAC-experience_REQ_25_25186)** — ¤70,000 – ¤80,000 USD _(posted 2025-07-07)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/d2yjlpuizwrhcwryx5uj.webp" width="24" height="24" alt="Panopto logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Panopto](https://jobo.world/company/Panopto)
-
-* **[Join Our Talent Community: Support Analyst I](https://jobs.lever.co/panopto/b3abde40-2909-41ce-ad34-e35c52baa238)** — ¤45,000 – ¤55,000 USD _(posted 2025-02-21)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ius1mxcu5iwevowrje3y.webp" width="24" height="24" alt="Paytient logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Paytient](https://jobo.world/company/Paytient)
 
 * **[Sr Platform Engineer](https://job-boards.greenhouse.io/paytient/jobs/4775601007)** — _n/a_ _(posted 2025-06-28)_
@@ -254,6 +250,7 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ow6rhitoxq427irmxmdy.webp" width="24" height="24" alt="Symbotic logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Symbotic](https://jobo.world/company/symbotic)
 
+* **[Field System Operator Trainer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Field-System-Operator-Trainer_R5088)** — _n/a_ _(posted 2025-07-11)_
 * **[Maintenance Auditor](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Maintenance-Auditor_R5085-1)** — _n/a_ _(posted 2025-07-10)_
 * **[Robot Teleoperations Support Specialist](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Robot-Teleoperations-Support-Specialist_R5049)** — _n/a_ _(posted 2025-07-07)_
 * **[Automation Design Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Automation-Design-Engineer_R5043)** — _n/a_ _(posted 2025-07-02)_
@@ -317,4 +314,4 @@ Browse a wide range of remote Systems Administrator positions available globally
 * **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
 
 ---
-_Updated automatically — 2025-07-13_
+_Updated automatically — 2025-07-14_
