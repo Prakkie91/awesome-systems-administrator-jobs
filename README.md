@@ -6,48 +6,55 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 ---
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nip45oxworryi11yyrb5.webp" width="24" height="24" alt="Abridge logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Abridge](https://jobo.world/company/Abridge)
+
+* **[Legal Operations Administrator](https://jobs.ashbyhq.com/abridge/6decbc28-3758-4237-a50e-f095989a7e5d)** — ¤115,000 – ¤145,000 USD _(posted 2025-06-28)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/eqtxryrzzr3osa9lrxfb.webp" width="24" height="24" alt="Acronis logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Acronis](https://jobo.world/company/Acronis)
 
 * **[System Engineer (Cloud Platform)](https://acronis.wd3.myworkdayjobs.com/acronis_careers/job/USA---Remote/System-Engineer--Cloud-Platform-_R-100369)** — _n/a_ _(posted 2025-07-08)_
 * **[Senior Systems Engineer – Cloud Platform](https://acronis.wd3.myworkdayjobs.com/acronis_careers/job/USA---Remote/Senior-Systems-Engineer---Cloud-Platform_R-100335)** — _n/a_ _(posted 2025-06-27)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yusgdnhj6g7bbs7rxusf.webp" width="24" height="24" alt="Airspace logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Airspace](https://jobo.world/company/Airspace)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xjv7yomvmvgq2zcdvckv.webp" width="24" height="24" alt="Affirm logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Affirm](https://jobo.world/company/Affirm)
 
-* **[Production Support Analyst](https://job-boards.greenhouse.io/airspace/jobs/5568688004)** — _n/a_ _(posted 2025-06-19)_
+* **[Senior Software Engineer, Backend (Batch Infrastructure)](https://job-boards.greenhouse.io/affirm/jobs/6618078003)** — _n/a_ _(posted 2025-07-03)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cxlfyveyajkzknd4zxyc.webp" width="24" height="24" alt="Align logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Align](https://jobo.world/company/Align)
 
 * **[Sr. Cloud Operations Engineer](https://job-boards.greenhouse.io/align46/jobs/4749263007)** — _n/a_ _(posted 2025-06-03)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/edjzfclp6hadlzvpzex8.webp" width="24" height="24" alt="AlphaSense logo" style="vertical-align:middle"/>&nbsp;&nbsp;[AlphaSense](https://jobo.world/company/AlphaSense)
-
-* **[Technical Support Engineer](https://job-boards.greenhouse.io/alphasense/jobs/7950763002)** — _n/a_ _(posted 2025-04-22)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dopqydjbowgsulf9ebb2.webp" width="24" height="24" alt="Altera logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Altera](https://jobo.world/company/Altera)
-
-* **[Support Experience  Coordinator (REMOTE)](https://alteryx.wd5.myworkdayjobs.com/alteryxcareers/job/Illinois-USA---Remote/Support-Experience--Coordinator_R11097-1)** — _n/a_ _(posted 2025-06-05)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ckyjhkdbpmvj9xoezwuu.webp" width="24" height="24" alt="Altera Digital Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Altera Digital Health](https://jobo.world/company/Altera-Digital-Health)
-
-* **[Manager IS - Remote](https://job-boards.greenhouse.io/alteradigitalhealthcanada/jobs/4737930007)** — _n/a_ _(posted 2025-05-17)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ggceq0tw5pnlncrgxzu5.webp" width="24" height="24" alt="Arine logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Arine](https://jobo.world/company/Arine)
 
 * **[Senior Security Administrator](https://job-boards.greenhouse.io/arine/jobs/5585985004)** — _n/a_ _(posted 2025-07-10)_
-* **[Technical Support Analyst](https://job-boards.greenhouse.io/arine/jobs/5567674004)** — _n/a_ _(posted 2025-06-18)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aeadxji1ji1odjlxqmsp.webp" width="24" height="24" alt="Ashby logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ashby](https://jobo.world/company/Ashby)
+
+* **[Naukri Test Job](https://jobs.ashbyhq.com/reteam/73a7fa3f-8475-4c48-b4a7-48045bc7743f)** — ¤1 – ¤100 USD _(posted 2025-03-21)_
+* **[63177 Check Job](https://jobs.ashbyhq.com/reteam/71a2fa58-d779-4a83-9e9f-9f2fde81f20e)** — ¤75,000 – ¤100,000 USD _(posted 2025-03-18)_
+* **[Teo Job Test](https://jobs.ashbyhq.com/reteam/8f7e87d3-dd05-49f2-9837-89fa6b023dd8)** — ¤75,000 – ¤100,000 USD _(posted 2025-03-12)_
+* **[Infrastructure Engineer](https://jobs.ashbyhq.com/reteam/8cfd5149-0d84-4485-ac22-96d67a823fcf)** — _n/a_ _(posted 2025-03-12)_
+* **[Brand New Job With A New Name](https://jobs.ashbyhq.com/reteam/4eb5914d-5e02-4e68-986c-0eb1a87a1b3d)** — _n/a_ _(posted 2025-03-12)_
+* **[BRAND NEW JOB!](https://jobs.ashbyhq.com/reteam/5b650610-6e2f-4270-863d-a0ca86a41cbb)** — ¤15,000 – ¤17,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/o3cyuf7vmyhd1je7c0cy.webp" width="24" height="24" alt="Aura logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aura](https://jobo.world/company/Aura)
 
 * **[System Engineer III](https://apply.workable.com/auria/j/1976DF0197/)** — ¤115,000 – ¤130,000 USD _(posted 2025-03-24)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pqfdfrjmqmxbudyqcngn.webp" width="24" height="24" alt="Baxter International logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Baxter International](https://jobo.world/company/Baxter-International)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xgchdfpjzyanu5kyaha9.webp" width="24" height="24" alt="Bloomerang logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Bloomerang](https://jobo.world/company/Bloomerang)
 
-* **[Healthcare Interface Engineer](https://baxter.wd1.myworkdayjobs.com/baxter/job/Illinois-remote/Healthcare-Interface-Engineer_JR-177787-1)** — _n/a_ _(posted 2025-07-11)_
+* **[Manager, Salesforce Administration](https://job-boards.greenhouse.io/bloomerang/jobs/4583231005)** — _n/a_ _(posted 2025-07-05)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/c5iub4tldandwckwufaw.webp" width="24" height="24" alt="BlueCat logo" style="vertical-align:middle"/>&nbsp;&nbsp;[BlueCat](https://jobo.world/company/BlueCat)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pudwuuka8ejmvqkrh7cz.webp" width="24" height="24" alt="Calendly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Calendly](https://jobo.world/company/Calendly)
 
-* **[Solution Architect](https://jobs.lever.co/bluecatnetworks/34f9ae99-d870-4d49-b82b-6ff9964ea2d8)** — _n/a_ _(posted 2025-06-16)_
-* **[Enterprise Support Engineer](https://jobs.lever.co/bluecatnetworks/29e13921-8373-439c-aa93-2683078c7c15)** — _n/a_ _(posted 2025-04-23)_
+* **[Staff Product Designer, Design Systems](https://job-boards.greenhouse.io/calendly/jobs/8055894002)** — _n/a_ _(posted 2025-07-04)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lpedyvmnlpef1xclcgtn.webp" width="24" height="24" alt="Capital One logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Capital One](https://jobo.world/company/Capital-One)
+
+* **[Principal Systems Integrator- Salesforce (Remote)](https://capitalone.wd12.myworkdayjobs.com/capital_one/job/US-Remote/Principal-Systems-Integrator--Salesforce--Remote-_R220148-2)** — _n/a_ _(posted 2025-07-10)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/o3acj3q6bo0xyuhtz8zv.webp" width="24" height="24" alt="Cars Commerce logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cars Commerce](https://jobo.world/company/Cars-Commerce)
+
+* **[Sr. HCM Developer - Workday](https://cars.wd12.myworkdayjobs.com/cars/job/Remote---Illinois/Sr-HCM-Developer---Workday_JR10324)** — _n/a_ _(posted 2025-05-27)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ga0g9epbwlf5czvr9y6j.webp" width="24" height="24" alt="Celo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Celo](https://jobo.world/company/Celo)
 
@@ -57,21 +64,19 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 * **[Senior IT Systems Engineer](https://jobs.ashbyhq.com/chainlink-labs/08369cd7-4c3b-48e6-95fd-b06f42f6a43a)** — _n/a_ _(posted 2025-05-17)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/z4zq76animagivzsx9d4.webp" width="24" height="24" alt="Cision logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cision](https://jobo.world/company/Cision)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcrsxaub94nntp5gtnjk.webp" width="24" height="24" alt="Clickhouse logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Clickhouse](https://jobo.world/company/Clickhouse)
 
-* **[Staff DevOps Engineer](https://job-boards.greenhouse.io/cision/jobs/4599928101)** — _n/a_ _(posted 2025-07-03)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yrhltbcatnpx6bjoymt2.webp" width="24" height="24" alt="Clairo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Clairo](https://jobo.world/company/Clairo)
-
-* **[Principal Software Engineer I](https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/North-Carolina-Remote/Principal-Software-Engineer-I_R16034)** — _n/a_ _(posted 2025-06-16)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qbfespi3tbwe37eihuwb.webp" width="24" height="24" alt="Close logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Close](https://jobo.world/company/Close)
-
-* **[Site Reliability Engineer](https://jobs.ashbyhq.com/close/6610824b-2d94-4071-90e0-bafc3b078870)** — _n/a_ _(posted 2025-05-24)_
+* **[Core Software Engineer (C++) - Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5494136004)** — _n/a_ _(posted 2025-04-04)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/p51wpz1xuhr53cmc6hnh.webp" width="24" height="24" alt="Confluent logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Confluent](https://jobo.world/company/Confluent)
 
+* **[Technical Support Engineer](https://jobs.ashbyhq.com/confluent/fd9f602f-9741-4360-946d-430f1515ebf9)** — _n/a_ _(posted 2025-07-12)_
+* **[Sr. Business Systems Analyst - GTM](https://jobs.ashbyhq.com/confluent/a025f0d7-4ea0-4ea6-bc9a-7d6fb2d8092c)** — ¤140,300 – ¤160,000 USD _(posted 2025-07-12)_
 * **[Technical Support Engineer (Sunday - Thursday schedule)](https://jobs.ashbyhq.com/confluent/76a64c56-ba6d-4754-b0f2-15c64bb4e52a)** — ¤106,200 – ¤124,700 USD _(posted 2025-07-12)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/f9yzum0rpaivxd6u3wja.webp" width="24" height="24" alt="Constant Contact logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Constant Contact](https://jobo.world/company/Constant-Contact)
+
+* **[Revenue Operations Systems Manager](https://job-boards.greenhouse.io/constantcontact/jobs/6838673)** — _n/a_ _(posted 2025-04-29)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hzuavimik16xkwurk8st.webp" width="24" height="24" alt="Cribl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cribl](https://jobo.world/company/Cribl)
 
@@ -81,51 +86,68 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 * **[Sr. Software Engineer - Linux Sensor, EPP Product (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Software-Engineer---Linux-Sensor--EPP-Product--Remote-_R23841)** — _n/a_ _(posted 2025-07-11)_
 * **[SDET III, Windows Sensor (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/SDET-III--Windows-Sensor--Remote-_R23865)** — _n/a_ _(posted 2025-07-11)_
+* **[Sr. Engineer - Content Systems (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Engineer---Content-Systems--Remote-_R23880)** — _n/a_ _(posted 2025-07-11)_
+* **[Engineer III - Content Systems (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-III---Content-Systems--Remote-_R23746)** — _n/a_ _(posted 2025-07-09)_
 * **[Sr. Software Engineer II - Linux Sensor, EPP Product (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Software-Engineer-II---Linux-Sensor--EPP-Product--Remote-_R23707)** — _n/a_ _(posted 2025-07-02)_
-* **[Engineering Manager, Data Services (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineering-Manager--Data-Services--Remote-_R23519)** — _n/a_ _(posted 2025-06-17)_
+* **[IAM Operations Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/IAM-Operations-Engineer--Remote-_R23678)** — _n/a_ _(posted 2025-06-30)_
+* **[Sr. Google Workspace & Collaboration Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Google-Workspace---Collaboration-Engineer--Remote-_R23598)** — _n/a_ _(posted 2025-06-23)_
+* **[Software Engineer III - Sensor IDP (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Software-Engineer-III---Sensor-IDP--Remote-_R23505-1)** — _n/a_ _(posted 2025-06-18)_
+* **[Sr. Product Manager II - Linux/Containers/Kubernetes (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Product-Manager-II---Linux-Containers-Kubernetes--Remote-_R22818)** — _n/a_ _(posted 2025-04-04)_
 * **[Sr. SDET - Windows Sensor (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-SDET---Windows-Sensor--Remote-_R22691-1)** — _n/a_ _(posted 2025-03-28)_
 * **[Sr. Software Engineer - Windows Kernel, Core Platform (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Software-Engineer---Windows-Kernel--Core-Platform--Remote--CAN-_R19309)** — _n/a_ _(posted 2025-03-07)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/v13qsi5yj0mn7o2emyf8.webp" width="24" height="24" alt="Dagster Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dagster Labs](https://jobo.world/company/Dagster-Labs)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zfzy0pnihj8axqnjxtki.webp" width="24" height="24" alt="Dandy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dandy](https://jobo.world/company/Dandy)
 
-* **[Developer Success Engineer - West](https://job-boards.greenhouse.io/dagsterlabs/jobs/6577667003)** — ¤60,000 – ¤80,000 USD _(posted 2025-05-16)_
+* **[Salesforce Business Systems Analyst](https://jobs.ashbyhq.com/dandy/9da28da6-b9ab-43e3-b1c2-78d63d03f8cc)** — ¤105,400 – ¤124,000 USD _(posted 2025-06-26)_
+* **[Manager of Payroll and Benefits](https://jobs.ashbyhq.com/dandy/fb781e72-4b4e-4af8-a8aa-7e5f9b677223)** — ¤126,700 – ¤149,000 USD _(posted 2025-06-25)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/d5rusk3oeplprdzwaplj.webp" width="24" height="24" alt="Degreed logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Degreed](https://jobo.world/company/Degreed)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yrqva3vuly7fayvtfyiz.webp" width="24" height="24" alt="Deel logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Deel](https://jobo.world/company/Deel)
 
-* **[Senior DevOps Manager - US](https://job-boards.greenhouse.io/degreed/jobs/5469548004)** — _n/a_ _(posted 2025-04-16)_
+* **[Immigration Administrator](https://jobs.ashbyhq.com/deel/b15613d1-705f-44b0-9f6e-6ca88048e753)** — _n/a_ _(posted 2025-06-28)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nuj1aprpm0ufo9wwlehb.webp" width="24" height="24" alt="eBay logo" style="vertical-align:middle"/>&nbsp;&nbsp;[eBay](https://jobo.world/company/E-Bay)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjk0q1dyjqqswplpttmj.webp" width="24" height="24" alt="Discord logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Discord](https://jobo.world/company/Discord)
 
-* **[Frontline Engineer](https://ebay.wd5.myworkdayjobs.com/apply/job/Remote-Pennsylvania/Frontline-Engineer_R0068049-1)** — _n/a_ _(posted 2025-06-11)_
+* **[Senior Software Engineer - Desktop Platform](https://job-boards.greenhouse.io/discord/jobs/7979535002)** — ¤196,000 – ¤220,500 USD _(posted 2025-05-02)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lsneeic8uzhtaj4c3ue5.webp" width="24" height="24" alt="edX logo" style="vertical-align:middle"/>&nbsp;&nbsp;[edX](https://jobo.world/company/edX)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rtaztcedlstvqbkphlsf.webp" width="24" height="24" alt="ERG logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ERG](https://jobo.world/company/ERG)
 
-* **[Multiple Roles - Cyber Security Student Support](https://boards.greenhouse.io/bootcampinstructionalengagement/jobs/5751270002)** — _n/a_ _(posted 2025-04-16)_
+* **[Contracts Administrator](https://jobs.lever.co/erg/71aa91a1-1e3a-4597-8c59-f186b3366afd)** — ¤85,000 – ¤110,000 USD _(posted 2025-04-29)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/r3lbc66nbljutjcnwp4d.webp" width="24" height="24" alt="Energy Solutions logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Energy Solutions](https://jobo.world/company/EnergySolutions)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ukb2l72y2nmpoy7oo6wf.webp" width="24" height="24" alt="Eventbrite logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Eventbrite](https://jobo.world/company/Eventbrite)
 
-* **[Solar Programs, Associate - Application Processing (Hybrid - Chicago, IL, Oakland, CA, Orange, CA , Portland, OR - US)](https://job-boards.greenhouse.io/energysolutions/jobs/4737017007)** — _n/a_ _(posted 2025-06-06)_
+* **[Senior Salesforce Administrator](https://boards.greenhouse.io/eventbriteinc/jobs/4680594007)** — _n/a_ _(posted 2025-03-18)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jy37ytidfhwof6jnycfb.webp" width="24" height="24" alt="Fullscript logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fullscript](https://jobo.world/company/FullScript)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ij1kvdwkn0w9aenlfz9t.webp" width="24" height="24" alt="Fieldguide logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fieldguide](https://jobo.world/company/Fieldguide)
 
-* **[Technical Lead, WMS](https://jobs.lever.co/fullscript/5888f245-5eea-4e4c-a65d-c638bb075682)** — _n/a_ _(posted 2025-06-20)_
+* **[RevOps Systems Manager](https://jobs.ashbyhq.com/fieldguide/ad243815-19d7-4491-b0f5-7ca3ef1febf3)** — ¤105,000 – ¤172,000 USD _(posted 2025-06-13)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/p5mrogl6k08ucmfnxnkq.webp" width="24" height="24" alt="Groq logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Groq](https://jobo.world/company/Groq)
 
+* **[Principal Systems Architect](https://job-boards.greenhouse.io/groq/jobs/6616644003)** — _n/a_ _(posted 2025-06-21)_
 * **[Senior Infrastructure Engineer](https://job-boards.greenhouse.io/groq/jobs/6579073003)** — _n/a_ _(posted 2025-05-21)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcr2yjsivoviphozj9y6.webp" width="24" height="24" alt="Humana logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Humana](https://jobo.world/company/Humana)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rs0l0mfny3yxavkod3yl.webp" width="24" height="24" alt="Halborn logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Halborn](https://jobo.world/company/Halborn)
 
-* **[Senior Problem, Incident and Event Management Engineer](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Senior-Problem--Incident-and-Event-Management-Engineer_R-381331)** — _n/a_ _(posted 2025-07-11)_
+* **[Director, Finance Systems Technology](https://job-boards.greenhouse.io/harborglobal/jobs/4604334007)** — _n/a_ _(posted 2025-03-30)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tbsfjuwuyescyatdwvwq.webp" width="24" height="24" alt="Huntress logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Huntress](https://jobo.world/company/Huntress)
+
+* **[Creative Administrator, Security Awareness Training](https://job-boards.greenhouse.io/huntress/jobs/6599772003)** — ¤140,000 – ¤160,000 USD _(posted 2025-06-06)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ojqrzbjpfmbgsm9qtfzl.webp" width="24" height="24" alt="IDMWORKS logo" style="vertical-align:middle"/>&nbsp;&nbsp;[IDMWORKS](https://jobo.world/company/IDMWORKS)
 
-* **[Microsoft Engineer - Senior](https://jobs.lever.co/idmworks/2744deee-064d-4f4e-aa72-7e816d8ab5f9)** — _n/a_ _(posted 2025-04-15)_
+* **[Sr. IAM Engineer - Strivacity](https://jobs.lever.co/idmworks/0623c22f-8a92-490d-90dc-3c4d7d5d56f8)** — _n/a_ _(posted 2025-06-24)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jsslip6bkuc18rzjcyoh.webp" width="24" height="24" alt="Instabase logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Instabase](https://jobo.world/company/Instabase)
+
+* **[Senior GTM Systems Manager](https://job-boards.greenhouse.io/instabase/jobs/8037036002)** — _n/a_ _(posted 2025-06-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ccz9dhecdmrekaje96ee.webp" width="24" height="24" alt="iRhythm Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[iRhythm Technologies](https://jobo.world/company/iRhythm-Technologies)
 
 * **[Staff Systems Reliability Engineer](https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/Remote---US/Staff-Systems-Reliability-Engineer_JR348)** — _n/a_ _(posted 2025-06-28)_
 * **[Sr. Systems Engineer I](https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/Remote---US/Sr-Systems-Engineer-I_JR282)** — _n/a_ _(posted 2025-06-21)_
+* **[SVP, Systems Development](https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/Remote---US/SVP--Systems-Development_JR248-1)** — _n/a_ _(posted 2025-06-05)_
+* **[Sr eQMS Quality Specialist](https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/Remote---US/Sr-eQMS-Quality-Specialist_JR48)** — _n/a_ _(posted 2025-05-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sxgbfxu6zzwvq8obqunk.webp" width="24" height="24" alt="Kalshi logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kalshi](https://jobo.world/company/Kalshi)
 
@@ -134,8 +156,7 @@ Browse a wide range of remote Systems Administrator positions available globally
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lvwq9crawrrfibndxzho.webp" width="24" height="24" alt="Keeper Security logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Keeper Security](https://jobo.world/company/Keeper-Security)
 
 * **[Senior Desktop Software Engineer (C# / .NET)](https://apply.workable.com/keepersecurity/j/CA871D73FD/)** — _n/a_ _(posted 2025-06-11)_
-* **[Senior Software Engineer, Admin Console](https://apply.workable.com/keepersecurity/j/CA8122E3DF/)** — _n/a_ _(posted 2025-05-23)_
-* **[Migration Engineer](https://apply.workable.com/keepersecurity/j/A507DFB84F/)** — _n/a_ _(posted 2025-04-08)_
+* **[Senior Software Engineer, Forcefield (R&D)](https://apply.workable.com/keepersecurity/j/0337340445/)** — _n/a_ _(posted 2025-06-09)_
 * **[Systems Support Engineer](https://apply.workable.com/keepersecurity/j/447286DBB1/)** — _n/a_ _(posted 2025-03-28)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/n2jgwbgwyiecef7h3tzy.webp" width="24" height="24" alt="Kraken logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kraken](https://jobo.world/company/Kraken)
@@ -146,21 +167,41 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 * **[Tech Ops Systems Engineer/ SysAdmin (Mac)](https://jobs.ashbyhq.com/kustomer/61dcb217-b513-4020-8eb8-211b0336c3db)** — _n/a_ _(posted 2025-07-01)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ac0nmn8nizlavraea6ot.webp" width="24" height="24" alt="Meter logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Meter](https://jobo.world/company/Meter)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nnuzei4zllf79yg0cz0n.webp" width="24" height="24" alt="Latitude AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Latitude AI](https://jobo.world/company/LatitudeAI)
 
-* **[Support Engineering](https://job-boards.greenhouse.io/meter/jobs/4559773006)** — _n/a_ _(posted 2025-07-03)_
+* **[Staff Software Engineer, (C++) Runtime Infrastructure](https://job-boards.greenhouse.io/latitude/jobs/7031693)** — _n/a_ _(posted 2025-07-03)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jwxdgigobys7pie3h5ns.webp" width="24" height="24" alt="LaunchDarkly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[LaunchDarkly](https://jobo.world/company/LaunchDarkly)
+
+* **[Staff Engineer, Distributed Systems](https://job-boards.greenhouse.io/launchdarkly/jobs/6614984003)** — _n/a_ _(posted 2025-06-21)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/k3yoaukk0lxp9o3xzyrn.webp" width="24" height="24" alt="LendingTree logo" style="vertical-align:middle"/>&nbsp;&nbsp;[LendingTree](https://jobo.world/company/LendingTree)
+
+* **[Senior Cloud Engineer](https://job-boards.greenhouse.io/lendingtree/jobs/6871855)** — _n/a_ _(posted 2025-05-09)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yxlnu2oiwrtwttay1hqs.webp" width="24" height="24" alt="Mixpanel logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mixpanel](https://jobo.world/company/Mixpanel)
+
+* **[Software Engineer, Distributed Systems](https://job-boards.greenhouse.io/mixpanel/jobs/3924606)** — _n/a_ _(posted 2025-06-25)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zwubunmuzrhumn3mx2us.webp" width="24" height="24" alt="Motive logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motive](https://jobo.world/company/Motive)
+
+* **[Finance Manager - IPOR - System Admin](https://job-boards.greenhouse.io/gomotive/jobs/8019018002)** — _n/a_ _(posted 2025-06-11)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/icyvoy1xdkv6ptazxcqz.webp" width="24" height="24" alt="Motley Fool logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motley Fool](https://jobo.world/company/Motley-Fool)
 
 * **[Systems Administrator](https://boards.greenhouse.io/themotleyfool/jobs/4515638007)** — _n/a_ _(posted 2025-04-10)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/txhnjc4c5hu3msapwpp7.webp" width="24" height="24" alt="NVIDIA logo" style="vertical-align:middle"/>&nbsp;&nbsp;[NVIDIA](https://jobo.world/company/NVIDIA)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lhi0btjeoioa7qgotnxx.webp" width="24" height="24" alt="Nutrafol logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Nutrafol](https://jobo.world/company/Nutrafol)
 
-* **[Senior Solutions Architect, HPC Systems Engineer](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-TX-Remote/Senior-Solutions-Architect--HPC-Systems-Engineer_JR1998307)** — _n/a_ _(posted 2025-06-04)_
+* **[Apply here to join Nutrafol&#x27;s Talent Community!](https://job-boards.greenhouse.io/nutrafol/jobs/4385354005)** — _n/a_ _(posted 2025-04-26)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vnzkj0v8d9iktmyqi6hv.webp" width="24" height="24" alt="Oklo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Oklo](https://jobo.world/company/Oklo)
 
 * **[Systems Engineer, Requirements](https://job-boards.greenhouse.io/oklo/jobs/5544862004)** — _n/a_ _(posted 2025-05-23)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/iplvtgvi2kp1xiajfgg9.webp" width="24" height="24" alt="Olo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Olo](https://jobo.world/company/Olo)
+
+* **[Salesforce Administrator](https://jobs.lever.co/olo/7a624652-3005-4e9c-b372-072993b9962d)** — _n/a_ _(posted 2025-07-10)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sthui0hmgs2quny5jrsi.webp" width="24" height="24" alt="Ondo Finance logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ondo Finance](https://jobo.world/company/OndoFinance)
 
@@ -168,58 +209,26 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mtjdghbxvseizkan336m.webp" width="24" height="24" alt="OpenAI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[OpenAI](https://jobo.world/company/OpenAI)
 
-* **[NOC Technician, Public Sector](https://jobs.ashbyhq.com/openai/7214281c-9bda-4e52-93f6-fbb9f8787c25)** — _n/a_ _(posted 2025-04-18)_
-* **[Security Engineer, Data Center Security](https://jobs.ashbyhq.com/openai/4efa5099-9fc6-459b-8ace-c47fb8677f90)** — ¤346,500 – ¤465,000 USD _(posted 2025-03-12)_
-* **[Security Engineer, Cloud Security](https://jobs.ashbyhq.com/openai/1705c3b2-7f3a-42bf-99a9-c23ba161a90d)** — ¤279,000 – ¤385,000 USD _(posted 2025-03-12)_
+* **[Distributed Systems Engineer, Security](https://jobs.ashbyhq.com/openai/2632a365-969a-4966-bbee-127ede6f7742)** — ¤300,000 – ¤885,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/company_logo.webp" width="24" height="24" alt="Owens & Minor logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Owens & Minor](https://jobo.world/company/Owens-Minor)
 
 * **[Desktop Support Analyst, End User Experience- MAC experience](https://owensminor.wd1.myworkdayjobs.com/omcareers/job/Remote---Virginia/Desktop-Support-Analyst--End-User-Experience--MAC-experience_REQ_25_25186)** — ¤70,000 – ¤80,000 USD _(posted 2025-07-07)_
+* **[Senior Analyst, Financial Systems](https://owensminor.wd1.myworkdayjobs.com/omcareers/job/Remote---Virginia/Senior-Analyst--Financial-Systems_REQ_25_25676)** — _n/a_ _(posted 2025-05-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ius1mxcu5iwevowrje3y.webp" width="24" height="24" alt="Paytient logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Paytient](https://jobo.world/company/Paytient)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zvn1ylulhsyyowqu95ym.webp" width="24" height="24" alt="PatientPoint logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PatientPoint](https://jobo.world/company/PatientPoint)
 
-* **[Sr Platform Engineer](https://job-boards.greenhouse.io/paytient/jobs/4775601007)** — _n/a_ _(posted 2025-06-28)_
+* **[Join Our Talent Community](https://job-boards.greenhouse.io/patientpoint/jobs/4243761005)** — _n/a_ _(posted 2025-03-30)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bg3fng0ltvro0huju6mf.webp" width="24" height="24" alt="paytroniz logo" style="vertical-align:middle"/>&nbsp;&nbsp;[paytroniz](https://jobo.world/company/paytroniz)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/h6wc9ahsl5jklo7wnmkt.webp" width="24" height="24" alt="Recorded Future logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Recorded Future](https://jobo.world/company/Recorded-Future)
 
-* **[Network Operations Center Lead Engineer](https://boards.greenhouse.io/paytronix/jobs/6783472)** — _n/a_ _(posted 2025-04-16)_
+* **[Manager, People Systems (Workday)](https://job-boards.greenhouse.io/recordedfuture/jobs/8012685002)** — _n/a_ _(posted 2025-05-28)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fieozdkgodqccwlxz8fy.webp" width="24" height="24" alt="Planet logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Planet](https://jobo.world/company/Planet)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ooageyecwxjflkskrez8.webp" width="24" height="24" alt="Reliable Robotics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Reliable Robotics](https://jobo.world/company/Reliable-Robotics)
 
-* **[Technical Support Engineer II](https://job-boards.greenhouse.io/planetlabs/jobs/7014868)** — _n/a_ _(posted 2025-07-11)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/efxwy6jn0yovonvkqiog.webp" width="24" height="24" alt="Planet Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Planet Technologies](https://jobo.world/company/Planet-Technologies)
-
-* **[Senior Technical Account Manager](https://jobs.lever.co/planettechnologies/91cb0314-e3ac-4f44-98d2-3d9fe382ab3d)** — _n/a_ _(posted 2025-05-09)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jqluxvjjehdk8lnz0lrg.webp" width="24" height="24" alt="Platform Science logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Platform Science](https://jobo.world/company/Platform-Science)
-
-* **[Sr. Infrastructure Engineer](https://job-boards.greenhouse.io/platformscience/jobs/6577992003)** — _n/a_ _(posted 2025-05-16)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ouaczxlwlkcqf2eimdw2.webp" width="24" height="24" alt="PointClickCare logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PointClickCare](https://jobo.world/company/PointClickCare)
-
-* **[Intermediate Automation and Security Engineer](https://jobs.lever.co/pointclickcare/dfb8f839-f76c-4632-b96c-b7e982ddf3f3)** — _n/a_ _(posted 2025-07-04)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/company_logo.webp" width="24" height="24" alt="Republic Services logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Republic Services](https://jobo.world/company/Republic-Services)
-
-* **[Staff Engineer Software Eng](https://republic.wd5.myworkdayjobs.com/republic/job/Remote---USA/Staff-Engineer-Software-Eng_R-152864)** — _n/a_ _(posted 2025-05-19)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mdqj75zkufregvxkop0f.webp" width="24" height="24" alt="Rescale logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rescale](https://jobo.world/company/Rescale)
-
-* **[Cyber Security Engineer IV](https://job-boards.greenhouse.io/regscale/jobs/4729920007)** — _n/a_ _(posted 2025-05-09)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xi7iziz3wk6eyva5r7qp.webp" width="24" height="24" alt="Research Innovations logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Research Innovations](https://jobo.world/company/Research-Innovations)
-
-* **[Security Engineer](https://apply.workable.com/resource-innovations/j/9010A86C2A/)** — ¤100,000 – ¤100,000 USD _(posted 2025-06-30)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hqzwsmenscskpexh3evu.webp" width="24" height="24" alt="Ro logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ro](https://jobo.world/company/Ro)
-
-* **[Senior IT Engineer](https://jobs.lever.co/ro/7f288c0d-0059-4857-a6ee-5c7d4a28b61e)** — _n/a_ _(posted 2025-06-30)_
-* **[Senior Network Engineer](https://jobs.lever.co/ro/f00c84ad-16bd-448f-8662-7174b203c074)** — _n/a_ _(posted 2025-06-30)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vunepkbbyb0nzxuzmazf.webp" width="24" height="24" alt="Rogo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rogo](https://jobo.world/company/Rogo)
-
-* **[Forward Deploy Engineer](https://jobs.ashbyhq.com/rogo/180e1eb4-c1a9-4b36-a48e-c057221a2d6c)** — _n/a_ _(posted 2025-03-14)_
+* **[Systems Engineer - Mission Definition](https://jobs.lever.co/reliable/68f70e8b-9aaf-4866-93b2-1c0cceb8d8f6)** — _n/a_ _(posted 2024-12-23)_
+* **[Systems Safety Engineer](https://jobs.lever.co/reliable/c141557c-dde1-4bac-8fd3-eda89e7864d0)** — _n/a_ _(posted 2023-06-08)_
+* **[Systems Architect](https://jobs.lever.co/reliable/b2ead667-547f-4217-b892-835d22f5874d)** — _n/a_ _(posted 2023-06-05)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/u3ko06mvu5nvizavxsix.webp" width="24" height="24" alt="RxSense logo" style="vertical-align:middle"/>&nbsp;&nbsp;[RxSense](https://jobo.world/company/RxSense)
 
@@ -229,45 +238,17 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 * **[Solutions Architect](https://job-boards.greenhouse.io/sciencelogic/jobs/6961512)** — _n/a_ _(posted 2025-06-24)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qvec61w5vxhujtj0tdj6.webp" width="24" height="24" alt="SGNL logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SGNL](https://jobo.world/company/SGNLai)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w1bo7icmsyka4gglxpty.webp" width="24" height="24" alt="ServiceNow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ServiceNow](https://jobo.world/company/ServiceNow)
 
-* **[Staff Software Engineer](https://jobs.ashbyhq.com/sgnlai/0dd34fcd-f0c7-4b78-b31d-f8a6ebf064a0)** — _n/a_ _(posted 2025-03-12)_
-* **[Senior DevOps Engineer](https://jobs.ashbyhq.com/sgnlai/18368176-2755-476c-aa5b-880e9c1a6269)** — _n/a_ _(posted 2025-03-12)_
-* **[DevOps Engineer](https://jobs.ashbyhq.com/sgnlai/47e2b427-1cff-4c66-b419-06aaedd2a875)** — _n/a_ _(posted 2025-03-12)_
+* **[Senior Database Engineer - Query Tuning - MariaDB Postgres - Federal](https://jobs.smartrecruiters.com/ServiceNow/744000070093220-senior-database-engineer-query-tuning-mariadb-postgres-federal?oga=true)** — _n/a_ _(posted 2025-07-11)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yhm5ssfvyrtsa8ejlhez.webp" width="24" height="24" alt="Sezzle logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sezzle](https://jobo.world/company/Sezzle)
+
+* **[Sezzle Talent Community - General Interest](https://job-boards.greenhouse.io/sezzle/jobs/4678126003)** — _n/a_ _(posted 2025-04-26)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/x3idbiqxdupfbfe14agf.webp" width="24" height="24" alt="Smarsh logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Smarsh](https://jobo.world/company/Smarsh)
 
 * **[IT Microsoft Systems Engineer](https://jobs.lever.co/smarsh/3f37a279-0994-4143-9942-7724dd3dd082)** — _n/a_ _(posted 2025-06-30)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wipjaspog6ixymh0ggpq.webp" width="24" height="24" alt="SonicWall logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SonicWall](https://jobo.world/company/SonicWall)
-
-* **[Staff Security Program Manager](https://job-boards.greenhouse.io/sonicwall/jobs/6949878)** — _n/a_ _(posted 2025-06-11)_
-* **[Cloud Solution Specialist and Trainer](https://boards.greenhouse.io/sonicwall/jobs/6331721)** — _n/a_ _(posted 2025-03-22)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dpb9q0te3wfkrpqiymkb.webp" width="24" height="24" alt="StockX logo" style="vertical-align:middle"/>&nbsp;&nbsp;[StockX](https://jobo.world/company/StockX)
-
-* **[Endpoint Management Engineer](https://job-boards.greenhouse.io/stockx/jobs/8065640002)** — _n/a_ _(posted 2025-07-10)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ow6rhitoxq427irmxmdy.webp" width="24" height="24" alt="Symbotic logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Symbotic](https://jobo.world/company/symbotic)
-
-* **[Field System Operator Trainer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Field-System-Operator-Trainer_R5088)** — _n/a_ _(posted 2025-07-11)_
-* **[Maintenance Auditor](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Maintenance-Auditor_R5085-1)** — _n/a_ _(posted 2025-07-10)_
-* **[Robot Teleoperations Support Specialist](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Robot-Teleoperations-Support-Specialist_R5049)** — _n/a_ _(posted 2025-07-07)_
-* **[Automation Design Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Automation-Design-Engineer_R5043)** — _n/a_ _(posted 2025-07-02)_
-* **[Industrial Controls Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Industrial-Controls-Engineer_R5024-1)** — _n/a_ _(posted 2025-06-30)_
-* **[System Engineer – All Locations (Onsite)](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/System-Engineer---All-Locations--Onsite-_R4992)** — _n/a_ _(posted 2025-06-18)_
-* **[Integration Specialist](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Integration-Specialist_R4962)** — _n/a_ _(posted 2025-06-04)_
-* **[Technical Control Engineer (Site Startup)](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Technical-Control-Engineer--Site-Startup-_R4781)** — _n/a_ _(posted 2025-06-03)_
-* **[Field Service Maintenance Technician](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Field-Service-Maintenance-Technician_R4931)** — _n/a_ _(posted 2025-05-30)_
-* **[Technical Control Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Technical-Control-Engineer_R4776-1)** — _n/a_ _(posted 2025-04-16)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lxkde3a4zbr9f7cpq9cn.webp" width="24" height="24" alt="Tala logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tala](https://jobo.world/company/Tala)
-
-* **[Staff Cloud Infrastructure Engineer](https://jobs.lever.co/tala/8f5232fb-9d0c-4626-848d-f8dc91a82a66)** — _n/a_ _(posted 2025-06-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t7hnejks5zv8kbaydiad.webp" width="24" height="24" alt="Tebra logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tebra](https://jobo.world/company/Tebra)
-
-* **[DevOps Engineer](https://job-boards.greenhouse.io/tebra/jobs/4575246005)** — _n/a_ _(posted 2025-07-08)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/l0npphxc0r3cletr4pcb.webp" width="24" height="24" alt="The Browser Company logo" style="vertical-align:middle"/>&nbsp;&nbsp;[The Browser Company](https://jobo.world/company/TheBrowserCompany)
 
@@ -275,9 +256,14 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fgwkzmyi2yqa4207echj.webp" width="24" height="24" alt="Thermo Fisher Scientific logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Thermo Fisher Scientific](https://jobo.world/company/Thermo-Fisher-Scientific)
 
+* **[Director, Quality – Digital Systems](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Indiana-USA/Director--Quality---Digital-Systems_R-01322096)** — _n/a_ _(posted 2025-07-10)_
 * **[Senior System Analyst](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Massachusetts-USA/Senior-System-Analyst_R-01322098)** — _n/a_ _(posted 2025-06-25)_
 * **[Manager, IT/Senior Systems Analyst](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Massachusetts-USA/Manager--IT-Senior-Systems-Analyst_R-01322099)** — _n/a_ _(posted 2025-06-25)_
 * **[Systems Analyst III](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Massachusetts-USA/Systems-Analyst-III_R-01319876)** — _n/a_ _(posted 2025-06-04)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nr08qvrebq29qlbzjr6e.webp" width="24" height="24" alt="Thrive Market logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Thrive Market](https://jobo.world/company/Thrive-Market)
+
+* **[Staff Software Engineer, Product Engineering](https://jobs.lever.co/thrivemarket/522bd3c8-f672-4784-9217-cce3730f4d10)** — _n/a_ _(posted 2025-01-28)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sga8awyk2vu9tdgrwd55.webp" width="24" height="24" alt="Upgrade logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Upgrade](https://jobo.world/company/Upgrade)
 
@@ -286,11 +272,12 @@ Browse a wide range of remote Systems Administrator positions available globally
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpebiagnv3yocpxflsoy.webp" width="24" height="24" alt="Vanta logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vanta](https://jobo.world/company/Vanta)
 
 * **[Senior Systems Engineer](https://jobs.ashbyhq.com/vanta/640abc7e-a263-4be9-81cb-e2df665a9281)** — ¤175,000 – ¤206,000 USD _(posted 2025-07-11)_
+* **[Frontend Software Engineer, Design Systems](https://jobs.ashbyhq.com/vanta/b32d2120-e4d9-495f-87df-9d74cd21c4e0)** — ¤179,000 – ¤211,000 USD _(posted 2025-06-18)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ptuq8bmeadcras6mz8tu.webp" width="24" height="24" alt="Verinext logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Verinext](https://jobo.world/company/Verinext)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pp9a1vcfqxflxrhibamz.webp" width="24" height="24" alt="Vercel logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vercel](https://jobo.world/company/Vercel)
 
-* **[DevOps Engineer](https://apply.workable.com/verinext/j/C0423284EA/)** — _n/a_ _(posted 2025-07-09)_
-* **[Atlassian Platform Engineer](https://apply.workable.com/verinext/j/1AD8B9B749/)** — _n/a_ _(posted 2025-07-09)_
+* **[Software Engineer, Compute](https://job-boards.greenhouse.io/vercel/jobs/5551619004)** — _n/a_ _(posted 2025-07-03)_
+* **[Build Systems Engineer](https://job-boards.greenhouse.io/vercel/jobs/5499505004)** — ¤18,000 – ¤18,000 USD _(posted 2025-04-16)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pnktfdl4lewo235ua2oh.webp" width="24" height="24" alt="Veritone logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Veritone](https://jobo.world/company/Veritone)
 
@@ -308,10 +295,17 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 * **[IT Administrator](https://jobs.ashbyhq.com/virtahealth/ea152829-904f-4f01-acef-169a0cb9d981)** — ¤74,100 – ¤85,200 USD _(posted 2025-05-24)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ulk9wbhbqzmd0lzi4e5e.webp" width="24" height="24" alt="Zscaler logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Zscaler](https://jobo.world/company/Zscaler)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cuchkrif4lug5jl6kmai.webp" width="24" height="24" alt="Virtru logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Virtru](https://jobo.world/company/Virtru)
 
-* **[Staff Network Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4783977007)** — _n/a_ _(posted 2025-07-12)_
-* **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
+* **[Senior Software Engineer](https://job-boards.greenhouse.io/virtru/jobs/4572939005)** — _n/a_ _(posted 2025-06-05)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/epuo7wxgp7crcehnqvcm.webp" width="24" height="24" alt="Voya Financial logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Voya Financial](https://jobo.world/company/VoyaFinancial)
+
+* **[Plan Manager-Bundled Pooled](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/United-States-Remote/Plan-Manager-Bundled-Pooled_JR0030844)** — _n/a_ _(posted 2025-05-30)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gfujrrwvqpdfryjn0v15.webp" width="24" height="24" alt="Weedmaps logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Weedmaps](https://jobo.world/company/Weedmaps)
+
+* **[Interested in future Tech positions? (Engineering, IT, Data, Product, Design)](https://boards.greenhouse.io/weedmaps77/jobs/6331266002)** — _n/a_ _(posted 2025-03-14)_
 
 ---
-_Updated automatically — 2025-07-14_
+_Updated automatically — 2025-07-15_
