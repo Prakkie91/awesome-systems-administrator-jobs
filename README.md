@@ -27,9 +27,9 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 * **[Sr. Cloud Operations Engineer](https://job-boards.greenhouse.io/align46/jobs/4749263007)** — _n/a_ _(posted 2025-06-03)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/edjzfclp6hadlzvpzex8.webp" width="24" height="24" alt="AlphaSense logo" style="vertical-align:middle"/>&nbsp;&nbsp;[AlphaSense](https://jobo.world/company/AlphaSense)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qbjqngphisdkg1vj3ilm.webp" width="24" height="24" alt="Appspace logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Appspace](https://jobo.world/company/Appspace)
 
-* **[Financial Systems and Analytics Analyst](https://job-boards.greenhouse.io/alphasense/jobs/7887015002)** — _n/a_ _(posted 2025-03-30)_
+* **[Financial Systems Administrator](https://job-boards.greenhouse.io/appspace/jobs/5541245004)** — ¤80,000 – ¤120,000 USD _(posted 2025-05-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ggceq0tw5pnlncrgxzu5.webp" width="24" height="24" alt="Arine logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Arine](https://jobo.world/company/Arine)
 
@@ -48,9 +48,9 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 * **[Content & Editorial Systems Lead](https://jobs.ashbyhq.com/atlan/bd81d791-809f-4a9d-b0fd-86796a5d1e74)** — _n/a_ _(posted 2025-07-16)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/o3cyuf7vmyhd1je7c0cy.webp" width="24" height="24" alt="Aura logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aura](https://jobo.world/company/Aura)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ufu9ybmv5kierbneyd6z.webp" width="24" height="24" alt="Axsome Therapeutics Inc logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Axsome Therapeutics Inc](https://jobo.world/company/Axsome-Therapeutics-Inc)
 
-* **[System Engineer III](https://apply.workable.com/auria/j/1976DF0197/)** — ¤115,000 – ¤130,000 USD _(posted 2025-03-24)_
+* **[Senior Manager, CRM Systems Administration](https://ptcbio.wd5.myworkdayjobs.com/ptc_careers/job/Remote-United-States/Senior-Manager--CRM-Systems-Administration_R3553)** — _n/a_ _(posted 2025-05-08)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gpfc82azslc17w3xudzi.webp" width="24" height="24" alt="Bestow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Bestow](https://jobo.world/company/Bestow)
 
@@ -76,6 +76,10 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 * **[Financial Systems Administrator](https://jobs.smartrecruiters.com/Cielo2/744000064775737-financial-systems-administrator?oga=true)** — _n/a_ _(posted 2025-06-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zkrzprpychsi3fq8j3od.webp" width="24" height="24" alt="Cerence logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cerence](https://jobo.world/company/Cerence)
+
+* **[Accounts Receivable Administrator](https://cerence.wd5.myworkdayjobs.com/cerence/job/Remote---USA/Accounts-Receivable-Administrator_R0005684)** — _n/a_ _(posted 2025-06-06)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jko5zs8apibkwfhlwdtq.webp" width="24" height="24" alt="Chainguard logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Chainguard](https://jobo.world/company/Chainguard)
 
 * **[Senior Software Engineer (Sustaining)](https://job-boards.greenhouse.io/chainguard/jobs/4583210006)** — _n/a_ _(posted 2025-07-15)_
@@ -94,7 +98,7 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/p51wpz1xuhr53cmc6hnh.webp" width="24" height="24" alt="Confluent logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Confluent](https://jobo.world/company/Confluent)
 
-* **[Technical Support Engineer](https://jobs.ashbyhq.com/confluent/fd9f602f-9741-4360-946d-430f1515ebf9)** — _n/a_ _(posted 2025-07-12)_
+* **[Technical Support Engineer (Sunday - Thursday schedule)](https://jobs.ashbyhq.com/confluent/76a64c56-ba6d-4754-b0f2-15c64bb4e52a)** — ¤106,200 – ¤124,700 USD _(posted 2025-07-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/f9yzum0rpaivxd6u3wja.webp" width="24" height="24" alt="Constant Contact logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Constant Contact](https://jobo.world/company/Constant-Contact)
 
@@ -117,7 +121,6 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 * **[Salesforce Business Systems Analyst](https://jobs.ashbyhq.com/dandy/9da28da6-b9ab-43e3-b1c2-78d63d03f8cc)** — ¤105,400 – ¤124,000 USD _(posted 2025-06-26)_
 * **[Manager of Payroll and Benefits](https://jobs.ashbyhq.com/dandy/fb781e72-4b4e-4af8-a8aa-7e5f9b677223)** — ¤126,700 – ¤149,000 USD _(posted 2025-06-25)_
-* **[Principal Product Manager, Design Systems](https://jobs.ashbyhq.com/dandy/7e5bd31c-eb24-4527-91b6-10b203187acc)** — _n/a_ _(posted 2025-05-16)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yrqva3vuly7fayvtfyiz.webp" width="24" height="24" alt="Deel logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Deel](https://jobo.world/company/Deel)
 
@@ -152,6 +155,10 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 * **[Director, Finance Systems Technology](https://job-boards.greenhouse.io/harborglobal/jobs/4604334007)** — _n/a_ _(posted 2025-03-30)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tbsfjuwuyescyatdwvwq.webp" width="24" height="24" alt="Huntress logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Huntress](https://jobo.world/company/Huntress)
+
+* **[Product Support Specialist- Central or East](https://job-boards.greenhouse.io/huntress/jobs/6651350003)** — ¤50,000 – ¤65,000 USD _(posted 2025-07-22)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ojqrzbjpfmbgsm9qtfzl.webp" width="24" height="24" alt="IDMWORKS logo" style="vertical-align:middle"/>&nbsp;&nbsp;[IDMWORKS](https://jobo.world/company/IDMWORKS)
 
 * **[Sr. IAM Engineer - Strivacity](https://jobs.lever.co/idmworks/0623c22f-8a92-490d-90dc-3c4d7d5d56f8)** — _n/a_ _(posted 2025-06-24)_
@@ -169,6 +176,7 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
 
+* **[Operations Associate](https://jobs.ashbyhq.com/jerry/27594411-06ce-4c5c-8ef9-b4dbcff085bf)** — ¤60,000 – ¤64,000 USD _(posted 2025-07-22)_
 * **[Operations Associate](https://jobs.ashbyhq.com/jerry/4f4e18ec-b28c-4d7e-9bd8-2d4331bad4cd)** — ¤60,000 – ¤64,000 USD _(posted 2025-07-19)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sxgbfxu6zzwvq8obqunk.webp" width="24" height="24" alt="Kalshi logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kalshi](https://jobo.world/company/Kalshi)
@@ -184,7 +192,6 @@ Browse a wide range of remote Systems Administrator positions available globally
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/n2jgwbgwyiecef7h3tzy.webp" width="24" height="24" alt="Kraken logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kraken](https://jobo.world/company/Kraken)
 
 * **[Fullstack Engineer - Financial Systems](https://jobs.ashbyhq.com/kraken.com/9774c0ec-c573-4adf-81f7-49a6817fd3b7)** — ¤110,000 – ¤176,000 USD _(posted 2025-07-17)_
-* **[Backend Engineer - Rust - Financial Systems](https://jobs.ashbyhq.com/kraken.com/ad4a45b3-c958-4cbf-86af-5466fe71bd0e)** — ¤127,000 – ¤203,000 USD _(posted 2025-07-17)_
 * **[Senior Core Infrastructure Engineer - Platforms Orchestration](https://jobs.ashbyhq.com/kraken.com/fe0eb89e-c2ff-4f75-b570-d6173b65d563)** — ¤100,000 – ¤203,000 USD _(posted 2025-06-04)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/c1quzk9ztnguozq9gkd5.webp" width="24" height="24" alt="Kustomer logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kustomer](https://jobo.world/company/Kustomer)
@@ -206,7 +213,6 @@ Browse a wide range of remote Systems Administrator positions available globally
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yxlnu2oiwrtwttay1hqs.webp" width="24" height="24" alt="Mixpanel logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mixpanel](https://jobo.world/company/Mixpanel)
 
 * **[Software Engineer, Distributed Systems](https://job-boards.greenhouse.io/mixpanel/jobs/3924606)** — _n/a_ _(posted 2025-06-25)_
-* **[Senior Software Engineer, Distributed Systems](https://job-boards.greenhouse.io/mixpanel/jobs/3924649)** — _n/a_ _(posted 2025-06-25)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zwubunmuzrhumn3mx2us.webp" width="24" height="24" alt="Motive logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motive](https://jobo.world/company/Motive)
 
@@ -219,15 +225,14 @@ Browse a wide range of remote Systems Administrator positions available globally
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dp45jhg8rcdpdfg98rsx.webp" width="24" height="24" alt="Mux logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mux](https://jobo.world/company/Mux)
 
 * **[Software Engineer - Distributed Systems](https://jobs.ashbyhq.com/mux/f918225a-ef29-479e-a82c-9a940e480d77)** — ¤188,000 – ¤200,000 USD _(posted 2025-07-15)_
-* **[Senior Software Engineer - Distributed Systems](https://jobs.ashbyhq.com/mux/13951b3a-fc15-466c-8677-bddb800a311f)** — ¤200,000 – ¤225,000 USD _(posted 2025-07-15)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hm2rl7tsorbxxjehvpou.webp" width="24" height="24" alt="Mysten Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mysten Labs](https://jobo.world/company/Mysten-Labs)
-
-* **[Senior Software Engineer, Distributed Systems](https://jobs.ashbyhq.com/mystenlabs/25bcf8de-55f8-425f-bab4-bfad16e1d919)** — ¤150,000 – ¤225,000 USD _(posted 2025-04-26)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lhi0btjeoioa7qgotnxx.webp" width="24" height="24" alt="Nutrafol logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Nutrafol](https://jobo.world/company/Nutrafol)
 
 * **[Apply here to join Nutrafol&#x27;s Talent Community!](https://job-boards.greenhouse.io/nutrafol/jobs/4385354005)** — _n/a_ _(posted 2025-04-26)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/txhnjc4c5hu3msapwpp7.webp" width="24" height="24" alt="NVIDIA logo" style="vertical-align:middle"/>&nbsp;&nbsp;[NVIDIA](https://jobo.world/company/NVIDIA)
+
+* **[Staff Client Engineer - Windows](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Staff-Client-Engineer---Windows_JR1996806)** — _n/a_ _(posted 2025-04-25)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vnzkj0v8d9iktmyqi6hv.webp" width="24" height="24" alt="Oklo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Oklo](https://jobo.world/company/Oklo)
 
@@ -284,10 +289,6 @@ Browse a wide range of remote Systems Administrator positions available globally
 * **[Director, Quality – Digital Systems](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Indiana-USA/Director--Quality---Digital-Systems_R-01322096)** — _n/a_ _(posted 2025-07-10)_
 * **[Senior System Analyst](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Massachusetts-USA/Senior-System-Analyst_R-01322098)** — _n/a_ _(posted 2025-06-25)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nr08qvrebq29qlbzjr6e.webp" width="24" height="24" alt="Thrive Market logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Thrive Market](https://jobo.world/company/Thrive-Market)
-
-* **[Staff Software Engineer, Product Engineering](https://jobs.lever.co/thrivemarket/522bd3c8-f672-4784-9217-cce3730f4d10)** — _n/a_ _(posted 2025-01-28)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sga8awyk2vu9tdgrwd55.webp" width="24" height="24" alt="Upgrade logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Upgrade](https://jobo.world/company/Upgrade)
 
 * **[Senior Site Reliability Engineer](https://job-boards.greenhouse.io/upgrade/jobs/4573185005)** — _n/a_ _(posted 2025-06-18)_
@@ -325,5 +326,13 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 * **[Interested in future Tech positions? (Engineering, IT, Data, Product, Design)](https://boards.greenhouse.io/weedmaps77/jobs/6331266002)** — _n/a_ _(posted 2025-03-14)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/company_logo.webp" width="24" height="24" alt="World Kinect logo" style="vertical-align:middle"/>&nbsp;&nbsp;[World Kinect](https://jobo.world/company/World-Kinect)
+
+* **[IT Cloud Engineer III](https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL-Remote/IT-Cloud-Engineer-III_R21352)** — _n/a_ _(posted 2025-06-04)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dkj6ipzrzwyjesvh2iqc.webp" width="24" height="24" alt="Zoom logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Zoom](https://jobo.world/company/Zoom)
+
+* **[Sr. Business Systems Analyst](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Sr-Business-Systems-Analyst_R16269-1)** — ¤124,000 – ¤271,200 USD _(posted 2025-05-13)_
+
 ---
-_Updated automatically — 2025-07-22_
+_Updated automatically — 2025-07-23_
