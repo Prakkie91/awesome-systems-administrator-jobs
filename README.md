@@ -130,6 +130,7 @@ Browse a wide range of remote Systems Administrator positions available globally
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nuj1aprpm0ufo9wwlehb.webp" width="24" height="24" alt="eBay logo" style="vertical-align:middle"/>&nbsp;&nbsp;[eBay](https://jobo.world/company/E-Bay)
 
 * **[Frontline Engineer](https://ebay.wd5.myworkdayjobs.com/apply/job/Remote-Pennsylvania/Frontline-Engineer_R0068137-2)** — _n/a_ _(posted 2025-07-16)_
+* **[Linux DevOps Engineer](https://ebay.wd5.myworkdayjobs.com/apply/job/Remote-United-States/Linux-DevOps-Engineer_R0067348)** — _n/a_ _(posted 2025-05-09)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rtaztcedlstvqbkphlsf.webp" width="24" height="24" alt="ERG logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ERG](https://jobo.world/company/ERG)
 
@@ -169,7 +170,6 @@ Browse a wide range of remote Systems Administrator positions available globally
 * **[Staff Systems Reliability Engineer](https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/Remote---US/Staff-Systems-Reliability-Engineer_JR348)** — _n/a_ _(posted 2025-06-28)_
 * **[Sr. Systems Engineer I](https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/Remote---US/Sr-Systems-Engineer-I_JR282)** — _n/a_ _(posted 2025-06-21)_
 * **[SVP, Systems Development](https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/Remote---US/SVP--Systems-Development_JR248-1)** — _n/a_ _(posted 2025-06-05)_
-* **[Sr eQMS Quality Specialist](https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/Remote---US/Sr-eQMS-Quality-Specialist_JR48)** — _n/a_ _(posted 2025-05-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
 
@@ -206,6 +206,10 @@ Browse a wide range of remote Systems Administrator positions available globally
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/k3yoaukk0lxp9o3xzyrn.webp" width="24" height="24" alt="LendingTree logo" style="vertical-align:middle"/>&nbsp;&nbsp;[LendingTree](https://jobo.world/company/LendingTree)
 
 * **[Senior Cloud Engineer](https://job-boards.greenhouse.io/lendingtree/jobs/6871855)** — _n/a_ _(posted 2025-05-09)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jqkoo9bpphunfsb4j3bk.webp" width="24" height="24" alt="Makpar logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Makpar](https://jobo.world/company/Makpar)
+
+* **[Threat Simulation Environment Administrator](https://jobs.lever.co/makpar/13f91c75-51a3-4388-ab82-f33962525e1e)** — _n/a_ _(posted 2025-06-03)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yxlnu2oiwrtwttay1hqs.webp" width="24" height="24" alt="Mixpanel logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mixpanel](https://jobo.world/company/Mixpanel)
 
@@ -286,10 +290,6 @@ Browse a wide range of remote Systems Administrator positions available globally
 * **[Director, Quality – Digital Systems](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Indiana-USA/Director--Quality---Digital-Systems_R-01322096)** — _n/a_ _(posted 2025-07-10)_
 * **[Senior System Analyst](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Massachusetts-USA/Senior-System-Analyst_R-01322098)** — _n/a_ _(posted 2025-06-25)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nr08qvrebq29qlbzjr6e.webp" width="24" height="24" alt="Thrive Market logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Thrive Market](https://jobo.world/company/Thrive-Market)
-
-* **[Staff Software Engineer, Product Engineering](https://jobs.lever.co/thrivemarket/522bd3c8-f672-4784-9217-cce3730f4d10)** — _n/a_ _(posted 2025-01-28)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sga8awyk2vu9tdgrwd55.webp" width="24" height="24" alt="Upgrade logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Upgrade](https://jobo.world/company/Upgrade)
 
 * **[Senior Site Reliability Engineer](https://job-boards.greenhouse.io/upgrade/jobs/4573185005)** — _n/a_ _(posted 2025-06-18)_
@@ -332,4 +332,4 @@ Browse a wide range of remote Systems Administrator positions available globally
 * **[Sr. Business Systems Analyst](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Sr-Business-Systems-Analyst_R16269-1)** — ¤124,000 – ¤271,200 USD _(posted 2025-05-13)_
 
 ---
-_Updated automatically — 2025-07-24_
+_Updated automatically — 2025-07-25_
