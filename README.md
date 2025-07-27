@@ -19,6 +19,10 @@ Browse a wide range of remote Systems Administrator positions available globally
 * **[Software Engineer, Platform](https://jobs.ashbyhq.com/aerovect/041ae29d-2731-4c7c-8f3f-7974f0ac01dc)** — _n/a_ _(posted 2025-07-16)_
 * **[Software Engineer, Localization, Calibration & Mapping](https://jobs.ashbyhq.com/aerovect/73a42f00-af59-4439-8ff5-531b7c355745)** — _n/a_ _(posted 2025-07-16)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xjv7yomvmvgq2zcdvckv.webp" width="24" height="24" alt="Affirm logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Affirm](https://jobo.world/company/Affirm)
+
+* **[Senior Software Engineer, Backend (Batch Infrastructure)](https://job-boards.greenhouse.io/affirm/jobs/6618078003)** — _n/a_ _(posted 2025-07-03)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qbjqngphisdkg1vj3ilm.webp" width="24" height="24" alt="Appspace logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Appspace](https://jobo.world/company/Appspace)
 
 * **[Financial Systems Administrator](https://job-boards.greenhouse.io/appspace/jobs/5541245004)** — ¤80,000 – ¤120,000 USD _(posted 2025-05-15)_
@@ -50,10 +54,6 @@ Browse a wide range of remote Systems Administrator positions available globally
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/anthlwqnh3ckdkwq7uvi.webp" width="24" height="24" alt="BigCommerce logo" style="vertical-align:middle"/>&nbsp;&nbsp;[BigCommerce](https://jobo.world/company/BigCommerce)
 
 * **[Senior Infrastructure Engineer](https://bigcommerce.wd12.myworkdayjobs.com/bigcommerce/job/United-States---Remote/Senior-Infrastructure-Engineer_JR102180)** — _n/a_ _(posted 2025-07-17)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xgchdfpjzyanu5kyaha9.webp" width="24" height="24" alt="Bloomerang logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Bloomerang](https://jobo.world/company/Bloomerang)
-
-* **[Manager, Salesforce Administration](https://job-boards.greenhouse.io/bloomerang/jobs/4583231005)** — _n/a_ _(posted 2025-07-05)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cvew1hngd07el1zhjq77.webp" width="24" height="24" alt="Boulevard logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Boulevard](https://jobo.world/company/Boulevard)
 
@@ -100,7 +100,6 @@ Browse a wide range of remote Systems Administrator positions available globally
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zfzy0pnihj8axqnjxtki.webp" width="24" height="24" alt="Dandy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dandy](https://jobo.world/company/Dandy)
 
 * **[Salesforce Business Systems Analyst](https://jobs.ashbyhq.com/dandy/9da28da6-b9ab-43e3-b1c2-78d63d03f8cc)** — ¤105,400 – ¤124,000 USD _(posted 2025-06-26)_
-* **[Manager of Payroll and Benefits](https://jobs.ashbyhq.com/dandy/fb781e72-4b4e-4af8-a8aa-7e5f9b677223)** — ¤126,700 – ¤149,000 USD _(posted 2025-06-25)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yrqva3vuly7fayvtfyiz.webp" width="24" height="24" alt="Deel logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Deel](https://jobo.world/company/Deel)
 
@@ -277,10 +276,6 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 * **[Field Engineer (Active Clearance Required)](https://boards.greenhouse.io/shift5/jobs/4337057004)** — _n/a_ _(posted 2025-03-14)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/x3idbiqxdupfbfe14agf.webp" width="24" height="24" alt="Smarsh logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Smarsh](https://jobo.world/company/Smarsh)
-
-* **[IT Microsoft Systems Engineer](https://jobs.lever.co/smarsh/3f37a279-0994-4143-9942-7724dd3dd082)** — _n/a_ _(posted 2025-06-30)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/l0npphxc0r3cletr4pcb.webp" width="24" height="24" alt="The Browser Company logo" style="vertical-align:middle"/>&nbsp;&nbsp;[The Browser Company](https://jobo.world/company/TheBrowserCompany)
 
 * **[Principal Database Administrator (Oracle Apps)](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000069906421-principal-database-administrator-oracle-apps-?oga=true)** — _n/a_ _(posted 2025-07-10)_
@@ -288,6 +283,10 @@ Browse a wide range of remote Systems Administrator positions available globally
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fgwkzmyi2yqa4207echj.webp" width="24" height="24" alt="Thermo Fisher Scientific logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Thermo Fisher Scientific](https://jobo.world/company/Thermo-Fisher-Scientific)
 
 * **[Director, Quality – Digital Systems](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Indiana-USA/Director--Quality---Digital-Systems_R-01322096)** — _n/a_ _(posted 2025-07-10)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/d1um59b4vcvf26yopkwy.webp" width="24" height="24" alt="Trella Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Trella Health](https://jobo.world/company/Trella-Health)
+
+* **[Senior Database Administrator](https://job-boards.greenhouse.io/trellahealth/jobs/5594754004)** — _n/a_ _(posted 2025-07-26)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sga8awyk2vu9tdgrwd55.webp" width="24" height="24" alt="Upgrade logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Upgrade](https://jobo.world/company/Upgrade)
 
@@ -327,9 +326,13 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 * **[Interested in future Tech positions? (Engineering, IT, Data, Product, Design)](https://boards.greenhouse.io/weedmaps77/jobs/6331266002)** — _n/a_ _(posted 2025-03-14)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/company_logo.webp" width="24" height="24" alt="World Kinect logo" style="vertical-align:middle"/>&nbsp;&nbsp;[World Kinect](https://jobo.world/company/World-Kinect)
+
+* **[IT Cloud Engineer III](https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL-Remote/IT-Cloud-Engineer-III_R21352)** — _n/a_ _(posted 2025-06-04)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dkj6ipzrzwyjesvh2iqc.webp" width="24" height="24" alt="Zoom logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Zoom](https://jobo.world/company/Zoom)
 
 * **[Sr. Business Systems Analyst](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Sr-Business-Systems-Analyst_R16269-1)** — ¤124,000 – ¤271,200 USD _(posted 2025-05-13)_
 
 ---
-_Updated automatically — 2025-07-26_
+_Updated automatically — 2025-07-27_
