@@ -17,7 +17,6 @@ Browse a wide range of remote Systems Administrator positions available globally
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bkz2yoeagkblnit7do7g.webp" width="24" height="24" alt="AeroVect logo" style="vertical-align:middle"/>&nbsp;&nbsp;[AeroVect](https://jobo.world/company/AeroVect)
 
 * **[Software Engineer, Platform](https://jobs.ashbyhq.com/aerovect/041ae29d-2731-4c7c-8f3f-7974f0ac01dc)** — _n/a_ _(posted 2025-07-16)_
-* **[Software Engineer, Localization, Calibration & Mapping](https://jobs.ashbyhq.com/aerovect/73a42f00-af59-4439-8ff5-531b7c355745)** — _n/a_ _(posted 2025-07-16)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qbjqngphisdkg1vj3ilm.webp" width="24" height="24" alt="Appspace logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Appspace](https://jobo.world/company/Appspace)
 
@@ -38,10 +37,6 @@ Browse a wide range of remote Systems Administrator positions available globally
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hlig8btjkeofmhnarcst.webp" width="24" height="24" alt="Atlan logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Atlan](https://jobo.world/company/Atlan)
 
 * **[Content & Editorial Systems Lead](https://jobs.ashbyhq.com/atlan/bd81d791-809f-4a9d-b0fd-86796a5d1e74)** — _n/a_ _(posted 2025-07-16)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ufu9ybmv5kierbneyd6z.webp" width="24" height="24" alt="Axsome Therapeutics Inc logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Axsome Therapeutics Inc](https://jobo.world/company/Axsome-Therapeutics-Inc)
-
-* **[Senior Manager, CRM Systems Administration](https://ptcbio.wd5.myworkdayjobs.com/ptc_careers/job/Remote-United-States/Senior-Manager--CRM-Systems-Administration_R3553)** — _n/a_ _(posted 2025-05-08)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gpfc82azslc17w3xudzi.webp" width="24" height="24" alt="Bestow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Bestow](https://jobo.world/company/Bestow)
 
@@ -197,6 +192,11 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 * **[Threat Simulation Environment Administrator](https://jobs.lever.co/makpar/13f91c75-51a3-4388-ab82-f33962525e1e)** — _n/a_ _(posted 2025-06-03)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ac9ek3cianx4jwsfjvd6.webp" width="24" height="24" alt="Marqeta logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Marqeta](https://jobo.world/company/Marqeta)
+
+* **[Enterprise Applications Engineer (Finance, ERP, Procurement)](https://job-boards.greenhouse.io/marqeta/jobs/7122789)** — _n/a_ _(posted 2025-07-31)_
+* **[Enterprise Applications Engineer (Finance, ERP, Procurement)](https://job-boards.greenhouse.io/mqreferrals/jobs/7122790)** — _n/a_ _(posted 2025-07-31)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yxlnu2oiwrtwttay1hqs.webp" width="24" height="24" alt="Mixpanel logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mixpanel](https://jobo.world/company/Mixpanel)
 
 * **[Software Engineer, Distributed Systems](https://job-boards.greenhouse.io/mixpanel/jobs/3924606)** — _n/a_ _(posted 2025-06-25)_
@@ -225,6 +225,10 @@ Browse a wide range of remote Systems Administrator positions available globally
 
 * **[Distributed Systems Engineer, Security](https://jobs.ashbyhq.com/openai/2632a365-969a-4966-bbee-127ede6f7742)** — ¤300,000 – ¤885,000 USD _(posted 2025-03-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/l4bo4rdk0efiqvvzos5y.webp" width="24" height="24" alt="Oura logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Oura](https://jobo.world/company/Oura)
+
+* **[Staff IT Systems Engineer](https://apply.workable.com/oura-health-ltd/j/7CC7C541F6)** — ¤182,000 USD _(posted 2025-07-30)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/company_logo.webp" width="24" height="24" alt="Owens & Minor logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Owens & Minor](https://jobo.world/company/Owens-Minor)
 
 * **[Corporate Card Administrator II](https://owensminor.wd1.myworkdayjobs.com/omcareers/job/Remote---Virginia/Corporate-Card-Administrator-II_REQ_25_27125)** — ¤41,600 – ¤49,920 USD _(posted 2025-07-24)_
@@ -241,10 +245,6 @@ Browse a wide range of remote Systems Administrator positions available globally
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fieozdkgodqccwlxz8fy.webp" width="24" height="24" alt="Planet logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Planet](https://jobo.world/company/Planet)
 
 * **[Senior Ground Station Engineer , Compute and Network](https://job-boards.greenhouse.io/planetlabs/jobs/7059197)** — _n/a_ _(posted 2025-07-23)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bmyehdxrdv6eiphmivcv.webp" width="24" height="24" alt="Procore Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Procore Technologies](https://jobo.world/company/Procore-Technologies)
-
-* **[Revenue Systems Manager](https://jobs.smartrecruiters.com/ProcoreTechnologies/744000071099282-revenue-systems-manager?oga=true)** — _n/a_ _(posted 2025-07-16)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ooageyecwxjflkskrez8.webp" width="24" height="24" alt="Reliable Robotics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Reliable Robotics](https://jobo.world/company/Reliable-Robotics)
 
@@ -323,4 +323,4 @@ Browse a wide range of remote Systems Administrator positions available globally
 * **[Sr. Business Systems Analyst](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Sr-Business-Systems-Analyst_R16269-1)** — ¤124,000 – ¤271,200 USD _(posted 2025-05-13)_
 
 ---
-_Updated automatically — 2025-07-31_
+_Updated automatically — 2025-08-01_
